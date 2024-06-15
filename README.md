@@ -1,4 +1,4 @@
-# dilayercan
+# Dilay Ercan
 ![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsc4ung0l605tn9oux9ee.png)
 <h1 align="center">Hi 👋, I'm Dilay</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>

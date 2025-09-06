@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilayercan?tab=repositories](https://github.com/dilayercan?tab=repositories)
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Asp.Net Core**
 
 - 📫 How to reach me **dilaygozuacik@gmail.com**
 

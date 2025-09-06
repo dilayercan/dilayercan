@@ -1,11 +1,11 @@
 # Dilay Ercan
 
 <h1 align="center">Hi 👋, I'm Dilay</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate ASP.NET developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Portfolio Web Site**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilayercan?tab=repositories](https://github.com/dilayercan?tab=repositories)
 
